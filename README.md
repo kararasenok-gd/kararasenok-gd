@@ -1,16 +1,13 @@
-### Hi there 👋
+### Всем привет! 👋
 
-<!--
-**KarasTipoNoNet/KarasTipoNoNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я обычный человек, живу в Москве, знаю Python и HTML.
 
-Here are some ideas to get you started:
+Самый лучший проект: [Discord Webhook Sender](https://github.com/KarasTipoNoNet/discord-webhook-sender)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Соц Сетьки =)
+
+[Discord](https://discord.gg/K64GdYwBfT)
+[YouTube](https://www.youtube.com/channel/UCnPdFplgMbo5pNPoBJf0kIQ)
+[Telegram](https://t.me/prime_eight_team)
+
+[![KarasTipoNoNet's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarasTipoNoNet)](https://github.com/anuraghazra/github-readme-stats)
