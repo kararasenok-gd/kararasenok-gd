@@ -13,4 +13,4 @@
 [Telegram](https://t.me/prime_eight_team)
 
 
-[![KarasTipoNoNet's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarasTipoNoNet)](https://github.com/anuraghazra/github-readme-stats)
+[![kararasenok-gd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kararasenok-gd)](https://github.com/anuraghazra/github-readme-stats)
