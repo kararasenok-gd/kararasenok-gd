@@ -2,15 +2,15 @@
 
 Я обычный человек, живу в Москве, знаю Python и HTML.
 
-Самый лучший проект: [Discord Webhook Sender](https://github.com/KarasTipoNoNet/discord-webhook-sender)
+Самый лучший проект: [Discord Webhook Sender](https://github.com/kararasenok-gd/discord-webhook-sender)
 
 ### Соц Сетьки =)
 
-[Discord](https://discord.gg/K64GdYwBfT)
+[Discord](https://discord.gg/QxPCjen7mr)
 
-[YouTube](https://www.youtube.com/channel/UCnPdFplgMbo5pNPoBJf0kIQ)
+[YouTube](https://www.youtube.com/@kararasenok_gd)
 
-[Telegram](https://t.me/prime_eight_team)
+[Telegram](https://t.me/logovo_amogusov)
 
 
-[![kararasenok-gd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kararasenok-gd)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![kararasenok-gd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kararasenok-gd)](https://github.com/anuraghazra/github-readme-stats) -->
