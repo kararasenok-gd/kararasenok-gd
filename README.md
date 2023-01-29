@@ -2,7 +2,7 @@
 
 Я обычный человек, живу в Москве, знаю Python и HTML.
 
-Самый лучший проект: [Discord Webhook Sender](https://github.com/kararasenok-gd/discord-webhook-sender)
+Самый лучший проект: [JRAT_Ru](https://github.com/kararasenok-gd/JRAT_Ru)
 
 ### Соц Сетьки =)
 
