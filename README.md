@@ -4,7 +4,7 @@
 
 <p>Самый лучший проект: <a href="https://github.com/kararasenok-gd/JRAT_Ru">JRAT_Ru</a></p>
 
-<h2Соц Сетьки =)</h2>
+<h2>Соц Сетьки =)</h2>
 
 <a href="https://www.youtube.com/@kararasenok_gd"><p>YouTube</p></a>
 
