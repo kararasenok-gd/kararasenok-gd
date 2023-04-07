@@ -1,4 +1,4 @@
-<h1>Всем привет! 👋</h1>
+<h1>Всем привет!</h1>
 
 <p>Я обычный человек, живу в Москве, знаю Python и HTML.</p>
 
@@ -6,9 +6,9 @@
 
 <h2>Соц Сетьки =)</h2>
 
-<a href="https://www.youtube.com/@kararasenok_gd"><p>YouTube</p></a>
+<p><a href="https://www.youtube.com/@kararasenok_gd">YouTube</a></p>
 
-<a href="https://t.me/logovo_amogusov"><p>Telegram</p></a>
+<p><a href="https://t.me/logovo_amogusov">Telegram</a></p>
 
 <h2>Всё, что я использую</h2>
 
