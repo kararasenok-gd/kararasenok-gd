@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/-Windows%207-blue">
 <img src="https://img.shields.io/badge/-Discord-blue">
 <img src="https://img.shields.io/badge/-Redmi%20Note%209C-orange">
+<img src="https://img.shields.io/badge/-Redmi%20Note%209%20Pro-orange">
 <img src="https://img.shields.io/badge/-Huawei%20Nova-red">
 <img src="https://img.shields.io/badge/-Blackview%20Tab8-lightgrey">
 
