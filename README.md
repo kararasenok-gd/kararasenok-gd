@@ -2,7 +2,7 @@
 
 <p>Я обычный человек, живу в Москве, знаю Python и HTML.</p>
 
-<p>Самый лучший проект: <a href="https://github.com/kararasenok-gd/JRAT_Ru">JRAT_Ru</a></p>
+<p>Самый лучший проект: <a href="https://github.com/kararasenok-gd/krrsnkapi">krrsnkapi</a></p>
 
 <h2>Соц Сетьки =)</h2>
 
