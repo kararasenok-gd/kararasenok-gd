@@ -18,5 +18,5 @@
 <h2>Statistics</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kararasenok-gd">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kararasenok-gd&hide_progress=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kararasenok-gd&layout=compact" target="_blank">
 </div>
