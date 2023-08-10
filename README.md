@@ -5,7 +5,7 @@
 
 <p>Best Project: <a href="https://github.com/kararasenok-gd/krrsnkapi">krrsnkapi</a></p>
 
-<h2>Social Networks =)</h2>
+<h2>Social Networks (EVERYTHING IN RUSSIAN LANGUAGE!)</h2>
 
 <p><a href="https://www.youtube.com/@kararasenok_gd">YouTube</a></p>
 
