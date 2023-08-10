@@ -1,9 +1,4 @@
-<style>
-  body {
-    text-align: center;
-  }
-</style>
-
+<div align="center">
 <h1>Hello everyone!</h1>
 
 <p>I am an ordinary person, I live in Moscow, I know Python and HTML.</p>
@@ -24,3 +19,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=kararasenok-gd">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kararasenok-gd&hide_progress=false">
+</div>
