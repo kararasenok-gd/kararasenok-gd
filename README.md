@@ -13,7 +13,7 @@
 
 <h2>Everything I use</h2>
 
-
+<img src="https://img.shields.io/badge/-python-blue?logo=python">
 
 <h2>Statistics</h2>
 
