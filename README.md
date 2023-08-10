@@ -17,6 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kararasenok-gd&layout=compact" target="_blank">
 
 <h2>Donations</h2>
-<a href="https://www.donationalerts.com/r/kararasenok_gd"><img src="https://img.shields.io/badge/Donate%20on-DonationAlerts-orange"></a> <a href="https://boosty.to/kararasenok_gd"><img src="https://img.shields.io/badge/Donate%20on-Boosty-white"></a>
+<a href="https://www.donationalerts.com/r/kararasenok_gd" target="_blank"><img src="https://img.shields.io/badge/Donate%20on-DonationAlerts-orange"></a> <a href="https://boosty.to/kararasenok_gd" target="_blank"><img src="https://img.shields.io/badge/Donate%20on-Boosty-white"></a>
 
 </div>
