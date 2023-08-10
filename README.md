@@ -11,10 +11,6 @@
 
 <p><a href="https://t.me/logovo_amogusov">Telegram</a></p>
 
-<h2>Everything I use</h2>
-
-<img src="https://img.shields.io/badge/-python-blue?logo=python">
-
 <h2>Statistics</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kararasenok-gd">
