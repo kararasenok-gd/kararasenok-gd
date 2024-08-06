@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hello everyone!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Hello+everyone!" alt="Typing SVG" /></a>
 
 <p>I am an ordinary person, I live in Moscow, I know Python and HTML.</p>
 
