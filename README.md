@@ -3,7 +3,7 @@
 
 <p>I am an ordinary person, I live in Moscow, I know Python and HTML.</p>
 
-<p>Best Project: <a href="https://github.com/kararasenok-gd/krrsnkapi">krrsnkapi</a></p>
+<p>Best Projects: <a href="https://github.com/kararasenok-gd/krrsnkapi">krrsnkapi</a>, <a href="https://github.com/kararasenok-gd/lyntr-account-switcher">lyntr-account-switcher</a></p>
 
 <h2>Social Networks (EVERYTHING IN RUSSIAN LANGUAGE!)</h2>
 
