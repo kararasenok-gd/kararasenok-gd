@@ -9,7 +9,7 @@
 
 <p><a href="https://www.youtube.com/@kararasenok_gd">YouTube</a></p>
 
-<p><a href="https://t.me/logovo_amogusov">Telegram</a></p>
+<p><a href="https://t.me/kararasenokk">Telegram</a></p>
 
 <h2>Statistics</h2>
 
