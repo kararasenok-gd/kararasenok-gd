@@ -1,6 +1,6 @@
 # Haii :3
 
-I'm kararasenok. I like to programm random apps, scripts, bots, etc.
+I'm kararasenok. I like to create random apps, scripts, bots, etc.
 
 I know: Python, HTML, CSS, JavaScript, PHP
 
