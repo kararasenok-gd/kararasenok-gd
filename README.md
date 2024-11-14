@@ -2,7 +2,7 @@
 
 I'm kararasenok. I like to create random apps, scripts, bots, etc.
 
-I know: Python, HTML, CSS, JavaScript, PHP
+I know: Python, HTML, CSS, JavaScript, PHP and Lua
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kararasenok-gd&theme=tokyonight)
 
